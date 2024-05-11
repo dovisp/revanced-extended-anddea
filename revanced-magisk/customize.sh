@@ -149,6 +149,7 @@ ui_print "  thanks to MatadorProBr (github.com/MatadorProBr)"
 ui_print "  thanks to ReVanced Team (github.com/ReVanced)"
 ui_print "  thanks to inotia00 (github.com/inotia00)"
 ui_print "  thanks to YT-Advanced (github.com/YT-Advanced)"
+ui_print "  thanks to anddea (github.com/anddea)"
 ui_print "  thanks to j-hc (github.com/j-hc)"
 ui_print " "
 
